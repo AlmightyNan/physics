@@ -36,7 +36,7 @@ ax = fig.add_subplot(111, projection="3d")
 """
 surface: 
     This variable will store the plot surface object that represents the 3D visualization of the fluid flow.
-
+    
 ax: 
     This is the 3D subplot created using fig.add_subplot(111, projection='3d'). It's the axis object on which we're going to plot the surface.
 
